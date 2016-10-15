@@ -1,0 +1,41 @@
+
+
+input:valid  { background-color: green;
+ }
+
+input:invalid  {
+	background-color: red;
+}
+
+ h1 {
+	color: gray;
+	text-align: center;
+	border-style: solid ;
+	border-color: black;
+	background-color: lightgray;
+	border-radius: 1px 99px 1px 99px;
+	box-shadow: 4px 5px 10px black;
+	border-width: 0.5px;
+	font-size:50px;
+	font-family: arial;
+	margin: 5rem;
+}
+
+h2 {color:gray;
+font-size: 35px;
+font-family: arial;}
+
+fieldset, table {
+	width : 30%;
+}
+
+
+h3 {font-family: arial;}
+
+
+footer {
+	margin: 5rem;
+	border-style: lightgray;
+	text-align: center;
+	border-size: 5px;
+}
